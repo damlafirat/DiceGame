@@ -1,0 +1,9 @@
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\damla\Desktop\Projects\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+C:\Users\damla\Desktop\Projects_C#\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\damla\Desktop\Projects_C#\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\damla\Desktop\Projects_C#\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
